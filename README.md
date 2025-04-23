@@ -8,12 +8,6 @@ This application sets up a server that listens over SSL and a client that connec
 
 ---
 
-## 📁 Folder Structure
-
-SSLProject/ ├── SSLServer.java # SSL-enabled server code ├── SSLClient.java # SSL-enabled client code ├── serverkeystore.jks # Keystore with server's certificate ├── *.class # Compiled class files
-
----
-
 ## 🛠️ Setup & Execution
 
 ### Step 1: Prerequisites
